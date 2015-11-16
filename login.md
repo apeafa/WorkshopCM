@@ -12,3 +12,9 @@ Workshop
             
 # Permissão de acesso à Net
 <uses-permission android:name="android.permission.INTERNET" /> 
+
+# Ligar projeto
+
+<meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
