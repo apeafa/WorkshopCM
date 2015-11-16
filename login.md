@@ -11,7 +11,8 @@ Workshop
             
             
 # Permissão de acesso à Net
-<uses-permission android:name="android.permission.INTERNET" /> 
+
+"<uses-permission android:name="android.permission.INTERNET" />"
 
 # Ligar projeto
 
